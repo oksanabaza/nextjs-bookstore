@@ -1,0 +1,17 @@
+.container {
+width: 100%
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+}
+.backToHome{
+  margin: 40px;
+}
